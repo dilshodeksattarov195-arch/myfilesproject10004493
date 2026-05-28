@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecarse",
+        "uuid": 3396708,
+        "checksum": "9swpt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
